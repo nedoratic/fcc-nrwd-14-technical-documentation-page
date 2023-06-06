@@ -4,3 +4,9 @@
     box-sizing: border-box;
 }
 
+html {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
