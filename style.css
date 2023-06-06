@@ -67,3 +67,29 @@ li {
 
 }
 
+@media (max-width: 767px) {
+
+    * {
+        font-size: 10px;
+    }
+
+    header {
+        font-size: 1.6rem;
+    }
+
+    a,
+    p,
+    code,
+    li {
+        font-size: 1rem;
+        padding: 5px;
+        margin: 0 5px;
+    }
+
+    code, 
+    li {
+        margin: 0px 10px;
+    }
+
+}
+
